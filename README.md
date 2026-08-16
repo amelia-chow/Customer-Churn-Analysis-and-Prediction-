@@ -56,7 +56,7 @@ Link to the dataset is available [here](https://www.kaggle.com/datasets/blastcha
 
 --- 
 
-##❓What's Next:
+## ❓What's Next:
 * **Predictive Modeling:** Train baseline classification algorithms (e.g., Logistic Regression, Random Forest, XGBoost) to predict customer churn probability.
 * **Model Evaluation & Interpretation:** Assess model performance using **Recall**, **ROC-AUC**, and **F1-Score**.
 * **Actionable Business Strategy:** Formulate targeted retention programs (e.g., promotional incentives for migrating month-to-month users to annual plans and dedicated onboarding support during the first 6 months).
