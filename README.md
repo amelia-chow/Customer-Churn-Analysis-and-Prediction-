@@ -53,6 +53,9 @@ Link to the dataset is available [here](https://www.kaggle.com/datasets/blastcha
 * **Early Lifecycle Vulnerability:** Churn is heavily concentrated among low-tenure customers within their initial months of onboarding.
 * **Impact of Add-On Services:** The absence of core support services—particularly **Online Security** and **Tech Support**—correlates strongly with higher attrition rates.
 
+Full code can be found (here)[
+---
+
 ##❓What's Next:
 * **Predictive Modeling:** Train baseline classification algorithms (e.g., Logistic Regression, Random Forest, XGBoost) to predict customer churn probability.
 * **Model Evaluation & Interpretation:** Assess model performance using **Recall**, **ROC-AUC**, and **F1-Score**.
